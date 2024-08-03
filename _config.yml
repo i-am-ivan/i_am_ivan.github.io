@@ -1,11 +1,41 @@
-title: Ivan Kuria
-email: your-email@example.com
-description: Dynamic software and cloud Solutions Architect with 7+ years of experience in software security engineering, cloud architecture, and DevSecOps.
-baseurl: ""
-url: ""
+#########################################################################################################################
+# --- Required options --- #
+#########################################################################################################################
 
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+# Name of Website
+title: Ivan Kuria
+
+# Name to show in the footer
+author: Ivan Kuria
+
+#########################################################################################################################
+# --- List of links in the navigation bar --- #
+#########################################################################################################################
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: ""
+  Author's home: ""
+
+#########################################################################################################################
+# --- Logos --- #
+#########################################################################################################################
+
+avator: "/assets/img/avator-icaon.png"
+
+round-avator: true
+
+#########################################################################################################################
+# --- Footer Social media links --- #
+#########################################################################################################################
+
+social-network-links:
+  email: your-email@example.com
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  github: daattali
+  twitter: daattali
+  patreon: DeanAttali
+  youtube: "@daattali"
+  whatsapp: 15551212
