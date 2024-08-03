@@ -2,7 +2,7 @@
 
 ## Solutions Architect | Software Security Engineer
 
-Nairobi, Kenya | +254 705 514761 | kuria.wa.kinuthia@gmail.com | [LinkedIn](#) | [GitHub](#)
+Nairobi, Kenya | +254 705 514761
 
 ---
 
