@@ -16,7 +16,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: ""
+    - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: ""
 
 #########################################################################################################################
