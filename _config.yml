@@ -1,15 +1,11 @@
-theme: jekyll-theme-minimal
 title: Ivan Kuria
+email: your-email@example.com
 description: Dynamic software and cloud Solutions Architect with 7+ years of experience in software security engineering, cloud architecture, and DevSecOps.
+baseurl: ""
+url: ""
 
-# Custom Variables
-name: Ivan Kuria
-roles: Solutions Architect | Software Security Engineer
-location: Nairobi, Kenya
-contact_number: +254 705 514761
-email: kuria.wa.kinuthia@gmail.com
-linkedin: https://www.linkedin.com/in/ivan-kuria
-github: https://github.com/ivankuria
-
-summary: >
-  Dynamic software and cloud Solutions Architect with 7+ years of experience in software security engineering, cloud architecture, and DevSecOps. Expertise in designing secure, scalable systems using modern technologies and collaborating with cross-functional teams to ensure robust security in CI/CD processes. Committed to leveraging technology for innovative business solutions.
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
