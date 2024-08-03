@@ -1,15 +1,3 @@
-# Ivan Kuria
-
-## Solutions Architect | Software Security Engineer
-
-Nairobi, Kenya | +254 705 514761
-
----
-
-### Summary
-
-Dynamic software and cloud Solutions Architect with 7+ years of experience in software security engineering, cloud architecture, and DevSecOps. Expertise in designing secure, scalable systems using modern technologies and collaborating with cross-functional teams to ensure robust security in CI/CD processes. Committed to leveraging technology for innovative business solutions.
-
 ### Work Experience
 
 #### Solution Architect | Software Security Engineer
